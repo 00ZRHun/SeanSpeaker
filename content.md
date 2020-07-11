@@ -1,4 +1,5 @@
 自媒体策略 
+Social Media Strategy
 
 Sean Lee 李注陞
 
@@ -36,3 +37,8 @@ backgound( https://www.myeduhealing.com/ )
 - 独家营销成功方案，完全在FB/youtube零视频零知名度，却创造百万业绩，并分享传授其方法给超过14,900人，也让超过4000名学员自发成为他的学生！
 - 2019获颁Excellence Education Award 十大杰出教育企业大奖
 - 2019获颁100 Most Influential Young Entrepreneur Award
+
+===
+references
+https://www.myeduhealing.com/
+https://www.retail-online.my/8-hours-fb-workshop-kl
